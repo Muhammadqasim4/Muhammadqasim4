@@ -57,7 +57,7 @@
 <h1><b>Hi 👋, I'm Muhammad Qasim — Software Engineer</b></h1>
 
 
-I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed a projects, gaining experience in both frontend and backend development. I'm also interested in Agentic AI. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
+I'm a full-stack developer , with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed a projects, gaining experience in both frontend and backend development. I'm also interested in Agentic AI. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
 
 ---
 
