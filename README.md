@@ -86,7 +86,6 @@ I'm a full-stack developer from Karachi, with a passion for building full-stack 
 
 # 💻 Tech Stack
 <!-- example badges - edit as you like -->
-### 🛠️ Tech Stack
 
 <p align="center">
 
