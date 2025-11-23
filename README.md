@@ -45,41 +45,36 @@
 
 
 
+<!-- Replace <YOUR-GITHUB-USERNAME> with your GitHub username -->
 
+<a href="https://github.com/<YOUR-GITHUB-USERNAME>?tab=followers">
+  <img src="https://img.shields.io/github/followers/<YOUR-GITHUB-USERNAME>?label=Follow&style=social" alt="Follow on GitHub" />
+</a>
 
-# [Muhammad Qasim] 👨‍💻 Front-end Software Engineer
-I'm a front-end developer focused on building polished, performant, and accessible web applications. I enjoy turning designs into high-quality code and improving UX with attention to detail.
+# Hi 👋, I'm Muhammad Qasim — Software Engineer
 
-## 🔧 Core Skills
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks / Libs:** React, Next.js, Redux / Zustand, React Query
-- **Styling:** CSS Modules, Tailwind CSS, Styled-Components, BEM
-- **Tools:** Git, GitHub, Vercel, Netlify, Webpack, ESLint, Prettier
-- **Design / Prototyping:** Figma, Adobe XD
-- **Testing:** Jest, React Testing Library, Cypress (basic)
-
-## 🚀 Selected Projects
-### Project Alpha — *Next.js Dashboard*
-- Server-side rendering, dynamic routes, role-based auth.
-- Implements charts, filters, and CSV export.
-
-### Project Beta — *E-commerce Frontend*
-- Responsive product pages, cart persistence, checkout flow.
-- Performance optimizations: image lazy-loading & code splitting.
-
-### Project Gamma — *Portfolio Site*
-- Clean animations, SEO meta tags, dark/light theme.
-
-## 🛠 How I work
-- Component-driven architecture and reusable design system.
-- Prioritize accessibility (semantic HTML + aria).
-- Write maintainable code with tests and CI.
-
-## 📫 Contact
-- Email: email@example.com
-- LinkedIn: https://www.linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
+I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed 15+ projects, gaining experience in both frontend and backend development. I'm also interested in cybersecurity. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
 
 ---
 
-If you'd like, I can customize this README with your real project names, live links, and GitHub stats (stars, top languages) — paste them and I'll insert everything.
+### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/<YOUR-LINKEDIN-URL>) [![Email](https://img.shields.io/badge/Email-MuhammadQasim-red)](mailto:your-email@example.com)
+
+---
+
+### 💻 Tech Stack
+<!-- example badges - edit as you like -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+<!-- optional: show stats; replace <YOUR-GITHUB-USERNAME> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR-GITHUB-USERNAME>&show_icons=true&theme=dark)
+
