@@ -54,13 +54,13 @@
 </p
 
 
-# Hi 👋, I'm Muhammad Qasim — Software Engineer
+# **Hi 👋, I'm Muhammad Qasim — Software Engineer**
 
 I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed a projects, gaining experience in both frontend and backend development. I'm also interested in Agentic AI. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-qasim-44a9132b4" target="_blank">
@@ -76,10 +76,11 @@ I'm a full-stack developer from Karachi, with a passion for building full-stack 
 
 ---
 
-### 💻 Tech Stack
+# 💻 Tech Stack
 <!-- example badges - edit as you like -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
