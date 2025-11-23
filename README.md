@@ -1,8 +1,8 @@
 <!-- <h1 align="center">👋 Hello! Welcome to My GitHub Profile 💻</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Coding GIF">
-</p>
+  ><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Coding GIF">
+</p
 
 ---
 
@@ -45,20 +45,34 @@
 
 
 
-<!-- Replace <YOUR-GITHUB-USERNAME> with your GitHub username -->
 
-<a href="https://github.com/<YOUR-GITHUB-USERNAME>?tab=followers">
-  <img src="https://img.shields.io/github/followers/<YOUR-GITHUB-USERNAME>?label=Follow&style=social" alt="Follow on GitHub" />
-</a>
+
+ <h1 align="center">👋 Hello! Welcome to My GitHub Profile 💻</h1>
+
+<p align="center">
+  ><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Coding GIF">
+</p
+
 
 # Hi 👋, I'm Muhammad Qasim — Software Engineer
 
-I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed 15+ projects, gaining experience in both frontend and backend development. I'm also interested in cybersecurity. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
+I'm a full-stack developer from Karachi, with a passion for building full-stack web apps using NextJS, MongoDB, Express.js, React, and Node.js. I’ve developed a projects, gaining experience in both frontend and backend development. I'm also interested in Agentic AI. Outside of coding, I enjoy playing cricket and exploring new tech. I'm always learning and aiming to grow as a full-stack developer.
 
 ---
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/<YOUR-LINKEDIN-URL>) [![Email](https://img.shields.io/badge/Email-MuhammadQasim-red)](mailto:your-email@example.com)
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-qasim-44a9132b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Muhammadqasim4" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+ 
 
 ---
 
@@ -67,14 +81,17 @@ I'm a full-stack developer from Karachi, with a passion for building full-stack 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square)
 
----
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 📊 GitHub Stats
-<!-- optional: show stats; replace <YOUR-GITHUB-USERNAME> -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<YOUR-GITHUB-USERNAME>&show_icons=true&theme=dark)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+
+
 
