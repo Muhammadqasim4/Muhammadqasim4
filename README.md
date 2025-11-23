@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! Welcome to My GitHub Profile 💻</h1>
+<!-- <h1 align="center">👋 Hello! Welcome to My GitHub Profile 💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height="300" alt="Coding GIF">
@@ -41,4 +41,45 @@
   </a>
 
  
+ -->
 
+
+
+
+
+# [Muhammad Qasim] 👨‍💻 Front-end Software Engineer
+I'm a front-end developer focused on building polished, performant, and accessible web applications. I enjoy turning designs into high-quality code and improving UX with attention to detail.
+
+## 🔧 Core Skills
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Frameworks / Libs:** React, Next.js, Redux / Zustand, React Query
+- **Styling:** CSS Modules, Tailwind CSS, Styled-Components, BEM
+- **Tools:** Git, GitHub, Vercel, Netlify, Webpack, ESLint, Prettier
+- **Design / Prototyping:** Figma, Adobe XD
+- **Testing:** Jest, React Testing Library, Cypress (basic)
+
+## 🚀 Selected Projects
+### Project Alpha — *Next.js Dashboard*
+- Server-side rendering, dynamic routes, role-based auth.
+- Implements charts, filters, and CSV export.
+
+### Project Beta — *E-commerce Frontend*
+- Responsive product pages, cart persistence, checkout flow.
+- Performance optimizations: image lazy-loading & code splitting.
+
+### Project Gamma — *Portfolio Site*
+- Clean animations, SEO meta tags, dark/light theme.
+
+## 🛠 How I work
+- Component-driven architecture and reusable design system.
+- Prioritize accessibility (semantic HTML + aria).
+- Write maintainable code with tests and CI.
+
+## 📫 Contact
+- Email: email@example.com
+- LinkedIn: https://www.linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
+
+---
+
+If you'd like, I can customize this README with your real project names, live links, and GitHub stats (stars, top languages) — paste them and I'll insert everything.
