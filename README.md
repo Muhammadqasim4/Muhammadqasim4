@@ -40,6 +40,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="Coding GIF"> </p>
+  <p align="center"> <img src="https://linkedin.com/in/muhammad-qasim-44a9132b4" width="600" height="300" alt="Coding GIF"> </p>
  
 
